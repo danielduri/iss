@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iss/static/css/main.6cacce78.css",
+    "main.js": "/iss/static/js/main.94be6a68.js",
+    "static/js/787.ba910f92.chunk.js": "/iss/static/js/787.ba910f92.chunk.js",
+    "index.html": "/iss/index.html",
+    "main.6cacce78.css.map": "/iss/static/css/main.6cacce78.css.map",
+    "main.94be6a68.js.map": "/iss/static/js/main.94be6a68.js.map",
+    "787.ba910f92.chunk.js.map": "/iss/static/js/787.ba910f92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cacce78.css",
+    "static/js/main.94be6a68.js"
+  ]
+}
